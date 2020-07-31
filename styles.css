@@ -67,4 +67,7 @@ img{
 *{
     background-color:black;
 }
-  
+#more {display: none;}
+.button{
+    background-color: cornsilk;
+}
